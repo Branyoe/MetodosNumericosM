@@ -1,1 +1,2 @@
 # MetodosNumericosMmiguel
+> npm i
