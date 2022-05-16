@@ -38,5 +38,5 @@ app.post('/', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('Server on port ' + port);
+    console.log('Server on ' + `http://localhost:3000/`);
 });
